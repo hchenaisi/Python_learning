@@ -1,2 +1,2 @@
-# Phython_learning
+# Python_learning
 Exercise work 
